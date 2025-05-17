@@ -1,3 +1,8 @@
+/*
+Create a program that defines an integer array (e.g., of a fixed size like 5, or by first asking the user for a size within a predefined maximum limit). 
+Then, prompt the user to enter values for each element of the array.
+After populating the array, calculate and display the sum of all its elements, followed by the average of these elements (which might require a floating-point type for accuracy).
+*/
 #include <iostream>
 using namespace std;
 
